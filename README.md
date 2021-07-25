@@ -114,6 +114,7 @@ Minimal and clean example implementations of data structures and algorithms in P
     - [Gaussian Elimination](math/Gaussian_Elimination.py)
     - [Cramer's Method](math/Cramer_Method.py)
     - [Number of Distinct Partitions](math/distinct_partitions.py)
+    - [Wilson's Theorem](math/wilson_theorem.py)
 - [matrix](matrix)
     - [matrix_rotation.txt](matrix/matrix_rotation.txt)
     - [copy_transform](matrix/copy_transform.py)
