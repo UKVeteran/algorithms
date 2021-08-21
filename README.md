@@ -116,6 +116,7 @@ Minimal and clean example implementations of data structures and algorithms in P
     - [Number of Distinct Partitions](math/distinct_partitions.py)
     - [Wilson's Theorem](math/wilson_theorem.py)
     - [Number Base Converter](math/NumberBaseConverter.py)
+    - [Residue Modulo n](math/residuen.py)
 - [matrix](matrix)
     - [matrix_rotation.txt](matrix/matrix_rotation.txt)
     - [copy_transform](matrix/copy_transform.py)
